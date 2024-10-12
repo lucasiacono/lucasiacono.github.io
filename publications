@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Lucas Iacono - Publications">
+    <title>Lucas Iacono - Publications</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: white;
+            color: black;
+        }
+        header {
+            background-color: #1485ce;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lucas Iacono - Publications</h1>
+    </header>
+
+    <section>
+        <h2>Selected Publications</h2>
+        <ul>
+            <li><strong>Passenger Kinematics in Reclined Sitting Position in Braking and Steering Manoeuvres</strong> - IRCOBI Conference 2023</li>
+            <li><strong>SNDVI: A new scalable serverless framework to compute NDVI</strong> - Frontiers in High Performance Computing, 2023-08-25, DOI: <a href="https://doi.org/10.3389/fhpcp.2023.1151530" target="_blank">10.3389/fhpcp.2023.1151530</a></li>
+            <li><strong>SNDVI</strong> - Software, 2023-01-01, DOI: <a href="https://doi.org/10.6084/m9.figshare.23703255" target="_blank">10.6084/m9.figshare.23703255</a></li>
+            <li><strong>Performance models for frost prediction in public cloud infrastructures</strong> - Computing and Informatics, 2018</li>
+            <li><strong>A bio-inspired datacenter selection scheduler for federated clouds and its application to frost prediction</strong> - Journal of Network and Systems Management, 2018-11-22, DOI: <a href="https://doi.org/10.1007/s10922-018-9481-0" target="_blank">10.1007/s10922-018-9481-0</a></li>
+            <li><strong>Un prototipo de plataforma de ciudades inteligentes</strong> - XIX Workshop de Investigadores en Ciencias de la Computación (WICC 2017, ITBA, Buenos Aires), 2017</li>
+            <li><strong>Evaluación técnico-económica de la aplicación de micro generadores eólicos en ciudades argentinas</strong> - Iberoamerican Journal of Industrial Engineering, 2015-11-30, DOI: <a href="https://doi.org/10.13084/2175-8018/ijie.v7n14ep41-54" target="_blank">10.13084/2175-8018/ijie.v7n14ep41-54</a></li>
+            <li><strong>A model to calculate Amazon EC2 instance performance in frost prediction applications</strong> - 2014, DOI: <a href="https://doi.org/10.1007/978-3-662-45483-1_6" target="_blank">10.1007/978-3-662-45483-1_6</a></li>
+        </ul>
+    </section>
+
+</body>
+</html>
+
