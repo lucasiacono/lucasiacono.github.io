@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Lucas Iacono - Courses">
+    <title>Lucas Iacono - Courses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: white;
+            color: black;
+        }
+        header {
+            background-color: #1485ce;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lucas Iacono - Courses</h1>
+    </header>
+
+    <section>
+        <h2>Winter Semester 2024/2025</h2>
+        <ul>
+            <li><strong>Data Integration and Large Scale Analysis (Lecturer)</strong> - TU Graz. More information available <a href="https://lucasiacono.github.io/ws2024_2025_dia.html" target="_blank">here</a>.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Summer Semester 2025</h2>
+        <ul>
+            <li><strong>Data Management (Lecturer/U)</strong> - TU Graz</li>
+        </ul>
+    </section>
+
+</body>
+</html>
